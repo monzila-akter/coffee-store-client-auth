@@ -1,0 +1,14 @@
+.footer {
+  background-image: url("https://i.ibb.co.com/Fzc84Fy/13.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.footerTwo {
+  background-image: url("https://i.ibb.co.com/TbvWzL4/24.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 50px;
+}
