@@ -34,7 +34,7 @@ const Home = () => {
           
            <div className="mb-20">
  {/* user button here */}
- <Link to='/users'>
+ <Link to='/addCoffee'>
             <button className="btn block mx-auto flex bg-[#E3B577] border-2 border-[#331A15]">
                 <span className="text-xl text-white rancho">Users</span>
                 <FaUser className="text-xl text-[#331A15]"></FaUser>

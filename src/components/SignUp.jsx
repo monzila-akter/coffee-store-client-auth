@@ -29,7 +29,7 @@ const SignUp = () => {
 
             const newUser = {name, photo, email, createdAt}
 
-            fetch('http://localhost:5000/users', {
+            fetch('https://coffee-store-server-ten-beta.vercel.app/users', {
                 method: 'POST',
                 headers: {
                     'content-type': 'application/json'

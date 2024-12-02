@@ -1,4 +1,6 @@
-# React + Vite
+# Coffee Store
+
+# live-link: https://coffee-store-auth-344b5.web.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
